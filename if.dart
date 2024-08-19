@@ -5,4 +5,8 @@ void main (){
   if (age>=18){
     print ('Eligible to vote');
   }
+  // else condition
+  else {
+    print("Not eligible to vote");
+  }
 }
